@@ -1,44 +1,69 @@
+# MoveMint — Roadmap (as of July 18, 2025)
 
-# 🧭 MoveMint Product Roadmap
-
-## Phase 1: Foundation (✅ Complete)
-- [x] Dark/Light theme support with toggle
-- [x] Centralized theming system
-- [x] Personalized dashboard with action tiles
-- [x] Shift summary with dynamic values
-- [x] PDF export for daily summaries
-- [x] Accessibility compliance (semantics, contrast)
+This roadmap outlines the phased development strategy for MoveMint, aligning with our vision of building a first-class companion app for gig drivers.
 
 ---
 
-## Phase 2: Navigation & User Flow
-- [ ] Hook up all dashboard tiles to their respective screens
-- [ ] Add app-wide navigation structure (bottom nav or drawer)
-- [ ] Build full shift tracking workflow (Start, Pause, End)
+## 🟢 Phase 1: Core MVP (Production-Ready)
+
+**Focus:** Stability, simplicity, and speed.
+
+- ✅ Home dashboard with earnings, delivery insights
+- ✅ Shift summary screen with trip logging
+- ✅ Daily performance metrics
+- ✅ Splash screen with animated logo
+- ✅ Dark/light theme toggle
+
+> 🎯 Goal: Launchable MVP that’s fast, beautiful, and tailored to real-world driver flow.
 
 ---
 
-## Phase 3: Data & Storage
-- [ ] Connect to real-time backend (Firebase or Supabase)
-- [ ] Store and retrieve shift history
-- [ ] Add user authentication (Google/Apple Sign-In)
+## 🟡 Phase 2: Enhancing Value for Drivers
+
+**Focus:** Personalized tools and deeper insights.
+
+- Tip prediction engine
+- Peak zone heatmaps (based on historical data)
+- Delivery logbook with advanced filtering
+- Route & mileage tracker
+- Multi-platform support (iOS/Android)
+
+> 🎯 Goal: Make MoveMint an indispensable daily tool.
 
 ---
 
-## Phase 4: Intelligence & Insights
-- [ ] Offer acceptance rate analysis
-- [ ] Heatmap of best earnings zones
-- [ ] Predictive suggestions based on time/day/location
+## 🟠 Phase 3: Monetization & Expansion
+
+**Focus:** Scale smartly while protecting user trust.
+
+- In-app purchases or premium tier (no ads, more features)
+- Earnings goal planner
+- Secure local data storage
+- Partnership integrations (i.e. tire shops, gas discounts)
+
+> 🎯 Goal: Prove MoveMint’s long-term revenue potential without selling out.
 
 ---
 
-## Phase 5: Business Ready
-- [ ] Add Stripe/Square payouts integration
-- [ ] Generate monthly income reports
-- [ ] Submit to Google Play and App Store
+## 🔵 Phase 4: Big Vision Execution
+
+**Focus:** Community and legacy.
+
+- Driver-to-driver referral program
+- Community feature (ask a driver, share zones)
+- Mental health & wellness tie-ins
+- Analytics dashboard for power users
+
+> 🎯 Goal: MoveMint becomes the go-to platform for gig work empowerment.
 
 ---
 
-### Vision
-> Empower every driver with data, design, and dignity.  
-> MoveMint is more than an app — it's a movement.
+## Guiding Principles
+
+- **Privacy First.** No data ever sold. Ever.
+- **Design Matters.** Every screen must earn trust.
+- **Empowerment Over Exploitation.** Drivers deserve better. We build better.
+
+---
+
+Built First Class. Always.
