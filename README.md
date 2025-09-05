@@ -1,4 +1,4 @@
-
+📄 [Sprint-1 Developer Handoff (PDF)](docs/MoveMint_MVP_Sprint1_Dev_Handoff.pdf)
 # MoveMint — World-Class Refactor (July 18, 2025)
 
 **MoveMint** is a first-class gig-driving companion built for speed, clarity, and empowerment.  
