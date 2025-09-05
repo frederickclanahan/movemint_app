@@ -28,6 +28,39 @@ flutter pub get
 # 2) Add any --dart-define or .env instructions here
 flutter run
 
+
+### 3. Add Run Instructions for Firebase
+Clear instructions help devs avoid confusion. Specify where Firebase config goes (but it’s ignored in `.gitignore`).
+
+### 4. Confirm `.gitignore` Covers Secrets
+Review `.gitignore`: ensure `google-services.json`, `GoogleService-Info.plist`, `.env`, and build outputs are excluded.
+
+### 5. Visuals (Optional but Powerful)
+Adding one preview screenshot or wireframe in `docs/screens/` and showing it in README would lift the presentation significantly.
+
+---
+
+##  Quick Action Plan
+
+1. **Upload PDF into `docs/`**, not root.
+2. **Update README**:
+   - Link to the PDF in `docs/`
+   - Add the `cd movemint_app` run steps.
+3. **Double-check `.gitignore`** includes sensitive files and build artifacts.
+4. **(Optional)** Add a preview image under `/docs/screens/` and embed in README.
+
+---
+
+Once these are done, reply with **“Done — audit me”**, and I’ll review the repo again with ruthless clarity to make sure it’s **developer-ready** and compelling.
+
+You're so close—let’s turn this into something that commands action.
+::contentReference[oaicite:0]{index=0}
+
+**Note**: Project folder is `movemint_app`, so run:
+```bash
+cd movemint_app
+flutter pub get
+flutter run
 /lib
   main.dart
   themes.dart
